@@ -1,0 +1,3 @@
+/home/guiming/backup/cmake/t1/CMakeFiles/rebuild_cache.dir
+/home/guiming/backup/cmake/t1/CMakeFiles/edit_cache.dir
+/home/guiming/backup/cmake/t1/CMakeFiles/hello.dir
